@@ -69,7 +69,7 @@ This will open JupyterLab in your browser (usually at http://localhost:8888)
 
 ### 2. Load the Notebook
 1. In JupyterLab, click File → Open
-2. Navigate to `brochure_generator_sec_v4.ipynb`
+2. Navigate to `brochure_generator_sec_v1.ipynb`
 3. Open the notebook
 
 ### 3. Run the Application
